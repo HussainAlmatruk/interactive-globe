@@ -16,29 +16,6 @@ This script renders a 3D globe using ASCII characters based on a 2D map projecti
 
 ---
 
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-* Python 3.x
-
-### Installation & Running
-1.  Clone the repo:
-    ```sh
-    git clone [https://github.com/YOUR_USERNAME/interactive-ascii-globe.git](https://github.com/YOUR_USERNAME/interactive-ascii-globe.git)
-    ```
-2.  Navigate to the project directory:
-    ```sh
-    cd interactive-ascii-globe
-    ```
-3.  Run the script:
-    ```sh
-    python interactive_globe.py
-    ```
-
----
-
 ## Controls
 * **Spin Left/Right**: `A` / `D`
 * **Tilt Up/Down**: `W` / `S`
