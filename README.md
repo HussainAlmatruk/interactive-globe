@@ -1,4 +1,4 @@
-# Interactive ASCII Globe 🌍
+# Interactive ASCII Globe
 
 A fully interactive, rotating ASCII globe that runs directly in your terminal, written in Python.
 
