@@ -2,7 +2,7 @@
 
 A fully interactive, rotating ASCII globe that runs directly in your terminal, written in Python.
 
-
+<img width="638" height="529" alt="Screenshot 2025-09-01 191638" src="https://github.com/user-attachments/assets/caa702ab-54c6-40b9-b9dc-aa767a5131e2" />
 
 ## About The Project
 
