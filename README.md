@@ -3,6 +3,7 @@
 A fully interactive, rotating ASCII globe that runs directly in your terminal, written in Python.
 
 <img width="638" height="529" alt="Screenshot 2025-09-01 191638" src="https://github.com/user-attachments/assets/caa702ab-54c6-40b9-b9dc-aa767a5131e2" />
+[An_Interactive_ASCII_Globe_Renderer_for_Terminal_Environments.pdf](https://github.com/user-attachments/files/22085665/An_Interactive_ASCII_Globe_Renderer_for_Terminal_Environments.pdf)
 
 ## About The Project
 
